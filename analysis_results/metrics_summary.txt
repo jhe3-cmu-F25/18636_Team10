@@ -1,0 +1,14 @@
+Total Sites: 222
+Compliant Sites: 123
+Non-Compliant Sites: 99
+Compliance Rate (%): 55.4054054054054
+Non-Compliance Rate (%): 44.5945945945946
+Total Violations Detected: 1278
+Avg Violations (All Sites): 5.756756756756757
+Avg Violations (Non-Compliant): 12.909090909090908
+ID Leaking Total: 408
+Cookie Sync Total: 866
+Fingerprinting Total: 4
+ID Leaking (%): 31.92488262910798
+Cookie Sync (%): 67.76212832550861
+Fingerprinting (%): 0.3129890453834116
