@@ -1,0 +1,12 @@
+[
+    "getCanvasFp",
+    "getWebglFp",
+    "Fingerprint2",
+    "Fingerprint2.get",
+    "Fingerprint2.getPromise",
+    "Fingerprint2.getV18",
+    "getCanvasFingerprint",
+    "getAudioFingerprint",
+    "getMathFingerprint",
+    "FingerprintJS.load"
+]

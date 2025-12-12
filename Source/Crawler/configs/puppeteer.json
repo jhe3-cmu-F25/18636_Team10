@@ -1,0 +1,14 @@
+{
+    "headless": false,
+    "loadPageTimeout": 40,
+    "waitPeriod": 5,
+    "waitUntil": "load",
+    "ignoreHTTPSErrors": false,
+    "windowWidth": 1920,
+    "windowHeight": 1050,
+    "windowPosX": 1921,
+    "windowPosY": 0,
+    "hardTimeout": 90,
+    "extensionPath": "/../../../Data/Consent_O_Matic/",
+    "outputPath": "/../Results/"
+}

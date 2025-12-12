@@ -1,0 +1,8 @@
+{
+    "cookiesFile": "/cookies.json",
+    "thirdPartyCookiesFile": "/thirdPartyCookies.json",
+    "requestsFile": "/requests.json",
+    "functionsFile": "/functions.json",
+    "websiteFile": "/website.json",
+    "outputFile": "/result.json"
+}
