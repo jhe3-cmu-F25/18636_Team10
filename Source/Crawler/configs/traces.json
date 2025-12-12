@@ -1,0 +1,8 @@
+{
+    "requestsFile": "/requests.json",
+    "cookiesFile": "/cookies.json",
+    "thirdPartyCookiesFile": "/thirdPartyCookies.json",
+    "websiteFile": "/website.json",
+    "functionsFile": "/functions.json",
+    "cmpInfoFile": "/cmp.json"
+}
