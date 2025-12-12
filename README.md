@@ -1,4 +1,4 @@
-## Team 10: Websites Cookie Preference Compliance
+## Website Cookie Preference Compliance: A Large-Scale Audit of Post-Rejection Tracking
 
 We extended the original ConsentGuard tool by developing an **automated and fault-tolerant analysis pipeline** to support large-scale evaluation of websites’ compliance with user cookie preferences.
 
